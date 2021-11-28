@@ -374,4 +374,4 @@ async def on_command_error(ctx, error):
     if isinstance(error, commands.CommandNotFound):
         await ctx.send("명령어를 찾지 못했습니다. C:도움말 을 입력하여 명령어를 확인하세요.")
 
-bot.run("OTE0MTY4NTM0NTg0Njg0NTQ1.YaJHyw.U56TsZ0ijcWWB1PD19pvPIsa2Xk")
+bot.run("토큰")
